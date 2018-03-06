@@ -1,0 +1,73 @@
+*
+{
+	box-sizing : border-box;
+}
+
+body
+{
+	max-width : 100%;
+	background-color : #336666;
+	color : white;
+	font-family : Arial;
+	overflow-x : hidden;
+	overflow-y : hidden;
+}
+
+h1
+{
+    background-color:#263236;
+    text-align: center;
+    color: white;
+    padding: 4px;
+}
+
+Art
+{
+	background-color : #336666;
+    width : 100%;
+    text-align : center;
+	margin : auto;
+	border : 1px solid #ddd;
+}
+
+tr,th,td
+{
+	width : 250px;
+	font-family : Arial;
+	font-size : normal;
+	padding : 5px 15px;
+	border : 1px solid #3366FF;
+}	
+	
+input
+{
+	font-size : 15px;
+	width : 250px;
+	height : 30px;
+	padding : 1.5px;
+	border : auto;
+	border-radius : 5px;
+}
+
+button
+{
+	background-color : #3366FF ;
+	color : white;
+	font-weight : bold;
+	font-size : 20px;
+	padding : 10px;
+	width : 180px;
+	height : 40px;
+	border : 0;
+	cursor : pointer;
+	border-radius : 5px;
+}
+
+.container
+{
+     width:100%;
+     max-width:500px;
+     max-height:600px;
+     background-color:#336666;
+     margin:auto;
+}

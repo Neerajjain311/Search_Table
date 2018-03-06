@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name = "viewport" content = "width=device-width,height=device-height,initial-scale = 1.0"/>
+	<link rel="stylesheet" href="style_TableFilter.css">
+	<title>TableFilter</title>
+</head>
+<body>
+	<div class="container">
+	 <br>
+	 <h1 align="center" style="font-family:ComicSans">Artists And Their Artworks</h1>
+	 <br>
+	 <div class="button" align="center">
+		<button type="button" id="btn">Populate Table</button>
+ 	 </div>
+	 <br>
+	 <p align="center">
+		<input type="text" id="Input" onkeyup="TableFilter()" placeholder="Type to Search Table">
+     </p>
+	 <br>
+     <table id="Art" align="center">
+        <tr>
+           <th>Artist</th>
+           <th>Artwork</th>
+        </tr>
+     </table>
+	 <br>
+     <center><h4>Total Number of Artists</h4><h4 id="total"></h4></center>
+    </div>
+    <script type="text/javascript" src="TableFilter.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+[
+    {   "artist":"Leonardo da Vinci", "art":"Mona Lisa"  },
+    {   "artist":"Pablo Picasso", "art":"Guernica"  },
+	{   "artist":"Michelangelo", "art":"The Creation Of Adam"  },
+	{   "artist":"Vincent van Gogh", "art":"Starry Night"  },
+	{   "artist":"Edvard Munch", "art":"The Scream"  },
+	{   "artist":"Salvador Dali", "art":"The Persistence Of Memory"  },
+	{   "artist":"M.F. Husain", "art":"The Lost Princesses"  },
+	{   "artist":"King N.J.", "art":"Beautiful Evening"  }
+]
