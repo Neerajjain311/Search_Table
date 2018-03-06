@@ -24,10 +24,9 @@ h1
 Art
 {
 	background-color : #336666;
-    width : 100%;
-    text-align : center;
+        width : 100%;
+        text-align : center;
 	margin : auto;
-	border : 1px solid #ddd;
 }
 
 tr,th,td
@@ -36,7 +35,7 @@ tr,th,td
 	font-family : Arial;
 	font-size : normal;
 	padding : 5px 15px;
-	border : 1px solid #3366FF;
+	border : 1px solid black;
 }	
 	
 input
